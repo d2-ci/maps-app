@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2018-09-24T13:57:56.147Z\n"
-"PO-Revision-Date: 2018-09-24T13:57:56.147Z\n"
+"POT-Creation-Date: 2018-09-25T13:28:20.387Z\n"
+"PO-Revision-Date: 2018-09-25T13:28:20.387Z\n"
 
 msgid "No favorite selected"
 msgstr ""
@@ -299,15 +299,6 @@ msgstr ""
 msgid "Filters"
 msgstr ""
 
-msgid "Download"
-msgstr ""
-
-msgid "Organisation units (GeoJSON)"
-msgstr ""
-
-msgid "Style (SLD)"
-msgstr ""
-
 msgid "Edit"
 msgstr ""
 
@@ -317,10 +308,13 @@ msgstr ""
 msgid "Set layer opacity"
 msgstr ""
 
-msgid "More"
+msgid "More actions"
 msgstr ""
 
 msgid "Data table"
+msgstr ""
+
+msgid "Download data"
 msgstr ""
 
 msgid "Edit layer"
