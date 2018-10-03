@@ -4,10 +4,5 @@
   "description": "DHIS2 Maps",
   "main": "src/app.js",
   "license": "BSD-3-Clause",
-  "author": "Bjørn Sandvik",
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run extract-pot && npm run prettify && CI=true npm run test && git add -A ."
-    }
-  }
+  "author": "Bjørn Sandvik"
 }
