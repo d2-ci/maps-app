@@ -1,0 +1,8 @@
+{
+  "name": "maps-app",
+  "version": "31.0.6",
+  "description": "DHIS2 Maps",
+  "main": "src/app.js",
+  "license": "BSD-3-Clause",
+  "author": "Bjørn Sandvik"
+}
