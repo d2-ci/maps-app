@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2018-10-17T12:27:32.395Z\n"
-"PO-Revision-Date: 2018-10-17T12:27:32.395Z\n"
+"POT-Creation-Date: 2018-10-17T12:54:28.510Z\n"
+"PO-Revision-Date: 2018-10-17T12:54:28.510Z\n"
 
 msgid "No favorite selected"
 msgstr ""
@@ -359,6 +359,9 @@ msgstr ""
 msgid "Relocate"
 msgstr ""
 
+msgid "Not set"
+msgstr ""
+
 msgid "Organisation unit"
 msgstr ""
 
@@ -476,7 +479,4 @@ msgid "No"
 msgstr ""
 
 msgid "Map could not be created"
-msgstr ""
-
-msgid "Not set"
 msgstr ""
