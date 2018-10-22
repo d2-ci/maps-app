@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2018-10-17T14:41:05.119Z\n"
-"PO-Revision-Date: 2018-10-17T14:41:05.119Z\n"
+"POT-Creation-Date: 2018-10-22T22:30:07.164Z\n"
+"PO-Revision-Date: 2018-10-22T22:30:07.164Z\n"
 
 msgid "No favorite selected"
 msgstr ""
@@ -155,6 +155,9 @@ msgstr ""
 msgid "Radius in meters"
 msgstr ""
 
+msgid "You can style events by data element after selecting a program."
+msgstr ""
+
 msgid "Program is required"
 msgstr ""
 
@@ -296,10 +299,22 @@ msgstr ""
 msgid "Expand"
 msgstr ""
 
-msgid "Download Event Layer Data"
+msgid "Download Layer Data"
+msgstr ""
+
+msgid "The data for this layer will be downloaded in GeoJSON format."
+msgstr ""
+
+msgid "What is GeoJSON?"
+msgstr ""
+
+msgid "Please select the format for GeoJSON Feature keys"
 msgstr ""
 
 msgid "Meta-data ID Format"
+msgstr ""
+
+msgid "Output human-readable keys for non-dimension data attributes"
 msgstr ""
 
 msgid "Download"
@@ -365,6 +380,9 @@ msgstr ""
 msgid "Relocate"
 msgstr ""
 
+msgid "Not set"
+msgstr ""
+
 msgid "Organisation unit"
 msgstr ""
 
@@ -372,9 +390,6 @@ msgid "Event time"
 msgstr ""
 
 msgid "Groups"
-msgstr ""
-
-msgid "No data found"
 msgstr ""
 
 msgid "Last updated"
@@ -466,17 +481,23 @@ msgstr ""
 msgid "Facilities"
 msgstr ""
 
+msgid "No data found"
+msgstr ""
+
 msgid "Tracked entity"
 msgstr ""
 
 msgid "No tracked entities found"
 msgstr ""
 
+msgid "true"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
 msgid "No"
 msgstr ""
 
 msgid "Map could not be created"
-msgstr ""
-
-msgid "Not set"
 msgstr ""
