@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2018-10-25T15:50:43.049Z\n"
-"PO-Revision-Date: 2018-10-25T15:50:43.049Z\n"
+"POT-Creation-Date: 2018-10-29T13:22:18.099Z\n"
+"PO-Revision-Date: 2018-10-29T13:22:18.099Z\n"
 
 msgid "No favorite selected"
 msgstr ""
@@ -299,6 +299,15 @@ msgstr ""
 msgid "Expand"
 msgstr ""
 
+msgid "Please select the format for GeoJSON Feature keys"
+msgstr ""
+
+msgid "Meta-data ID Format"
+msgstr ""
+
+msgid "Output human-readable keys for non-dimension data attributes"
+msgstr ""
+
 msgid "Download Layer Data"
 msgstr ""
 
@@ -308,15 +317,6 @@ msgstr ""
 msgid ""
 "This format is supported by most GIS software, including QGIS and ArcGIS "
 "Desktop."
-msgstr ""
-
-msgid "Please select the format for GeoJSON Feature keys"
-msgstr ""
-
-msgid "Meta-data ID Format"
-msgstr ""
-
-msgid "Output human-readable keys for non-dimension data attributes"
 msgstr ""
 
 msgid "Download"
