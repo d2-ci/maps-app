@@ -5,11 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2018-10-30T11:01:04.445Z\n"
-"PO-Revision-Date: 2018-10-30T11:01:04.445Z\n"
-
-msgid "No favorite selected"
-msgstr ""
+"POT-Creation-Date: 2018-10-30T14:13:41.649Z\n"
+"PO-Revision-Date: 2018-10-30T14:13:41.649Z\n"
 
 msgid "Download"
 msgstr ""
