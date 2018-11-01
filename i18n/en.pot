@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2018-11-01T13:15:27.454Z\n"
-"PO-Revision-Date: 2018-11-01T13:15:27.454Z\n"
+"POT-Creation-Date: 2018-11-01T13:25:23.709Z\n"
+"PO-Revision-Date: 2018-11-01T13:25:23.709Z\n"
 
 msgid "Classification"
 msgstr ""
@@ -312,6 +312,26 @@ msgid "Collapse"
 msgstr ""
 
 msgid "Expand"
+msgstr ""
+
+msgid "Download Layer Data"
+msgstr ""
+
+msgid "Downloading GeoJSON data for \"{{layerName}}\""
+msgstr ""
+
+msgid ""
+"GeoJSON format is supported by most GIS software, including QGIS and ArcGIS "
+"Desktop."
+msgstr ""
+
+msgid "Data download failed."
+msgstr ""
+
+msgid "ID Format"
+msgstr ""
+
+msgid "Use human-readable keys"
 msgstr ""
 
 msgid "deleted"
