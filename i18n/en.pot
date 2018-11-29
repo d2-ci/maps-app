@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2018-11-29T11:20:28.518Z\n"
-"PO-Revision-Date: 2018-11-29T11:20:28.518Z\n"
+"POT-Creation-Date: 2018-11-29T11:41:15.085Z\n"
+"PO-Revision-Date: 2018-11-29T11:41:15.085Z\n"
 
 msgid "Maps"
 msgstr ""
@@ -243,6 +243,21 @@ msgid "Indicator group is required"
 msgstr ""
 
 msgid "Indicator is required"
+msgstr ""
+
+msgid "Data element group is required"
+msgstr ""
+
+msgid "Data element is required"
+msgstr ""
+
+msgid "Data set is required"
+msgstr ""
+
+msgid "Event data item is required"
+msgstr ""
+
+msgid "Program indicator is required"
 msgstr ""
 
 msgid "Period type is required"
