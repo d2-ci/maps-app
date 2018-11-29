@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2018-11-29T11:08:12.423Z\n"
-"PO-Revision-Date: 2018-11-29T11:08:12.423Z\n"
+"POT-Creation-Date: 2018-11-29T11:20:28.518Z\n"
+"PO-Revision-Date: 2018-11-29T11:20:28.518Z\n"
 
 msgid "Maps"
 msgstr ""
@@ -353,6 +353,9 @@ msgid "ID Format"
 msgstr ""
 
 msgid "Use human-readable keys"
+msgstr ""
+
+msgid "Loading layer"
 msgstr ""
 
 msgid "deleted"
