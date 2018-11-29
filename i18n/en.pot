@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2018-11-28T17:45:14.013Z\n"
-"PO-Revision-Date: 2018-11-28T17:45:14.013Z\n"
+"POT-Creation-Date: 2018-11-29T11:08:12.423Z\n"
+"PO-Revision-Date: 2018-11-29T11:08:12.423Z\n"
 
 msgid "Maps"
 msgstr ""
@@ -430,9 +430,6 @@ msgstr ""
 msgid "Last updated"
 msgstr ""
 
-msgid "No data found"
-msgstr ""
-
 msgid "Options"
 msgstr ""
 
@@ -514,6 +511,9 @@ msgid "Event"
 msgstr ""
 
 msgid "Facilities"
+msgstr ""
+
+msgid "No data found"
 msgstr ""
 
 msgid "Tracked entity"
