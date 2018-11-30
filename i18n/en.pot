@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2018-11-22T09:44:58.970Z\n"
-"PO-Revision-Date: 2018-11-22T09:44:58.970Z\n"
+"POT-Creation-Date: 2018-11-30T12:38:59.578Z\n"
+"PO-Revision-Date: 2018-11-30T12:38:59.578Z\n"
 
 msgid "Maps"
 msgstr ""
@@ -245,6 +245,21 @@ msgstr ""
 msgid "Indicator is required"
 msgstr ""
 
+msgid "Data element group is required"
+msgstr ""
+
+msgid "Data element is required"
+msgstr ""
+
+msgid "Data set is required"
+msgstr ""
+
+msgid "Event data item is required"
+msgstr ""
+
+msgid "Program indicator is required"
+msgstr ""
+
 msgid "Period type is required"
 msgstr ""
 
@@ -264,6 +279,24 @@ msgid "Program indicators"
 msgstr ""
 
 msgid "Item type"
+msgstr ""
+
+msgid "Something went wrong"
+msgstr ""
+
+msgid "Refresh to try again"
+msgstr ""
+
+msgid "Hide technical details"
+msgstr ""
+
+msgid "Show technical details"
+msgstr ""
+
+msgid "An error occurred in the DHIS2 {{AppName}} application."
+msgstr ""
+
+msgid "The following information may be requested by technical support."
 msgstr ""
 
 msgid "Filtering is available after selecting a program stage."
@@ -324,7 +357,7 @@ msgid "Downloading GeoJSON data for \"{{layerName}}\""
 msgstr ""
 
 msgid ""
-"GeoJSON format is supported by most GIS software, including QGIS and ArcGIS "
+"GeoJSON is supported by most GIS software, including QGIS and ArcGIS "
 "Desktop."
 msgstr ""
 
@@ -335,6 +368,9 @@ msgid "ID Format"
 msgstr ""
 
 msgid "Use human-readable keys"
+msgstr ""
+
+msgid "Loading layer"
 msgstr ""
 
 msgid "deleted"
@@ -410,9 +446,6 @@ msgid "Groups"
 msgstr ""
 
 msgid "Last updated"
-msgstr ""
-
-msgid "No data found"
 msgstr ""
 
 msgid "Options"
@@ -496,6 +529,9 @@ msgid "Event"
 msgstr ""
 
 msgid "Facilities"
+msgstr ""
+
+msgid "No data found"
 msgstr ""
 
 msgid "Tracked entity"
