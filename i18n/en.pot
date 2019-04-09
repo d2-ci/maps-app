@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2019-04-09T14:45:16.318Z\n"
-"PO-Revision-Date: 2019-04-09T14:45:16.318Z\n"
+"POT-Creation-Date: 2019-04-09T17:06:56.745Z\n"
+"PO-Revision-Date: 2019-04-09T17:06:56.745Z\n"
 
 msgid "Maps"
 msgstr ""
@@ -225,6 +225,12 @@ msgid "Follow up"
 msgstr ""
 
 msgid "Please select a Tracked Entity Type before selecting a Relationship Type"
+msgstr ""
+
+msgid "WARNING"
+msgstr ""
+
+msgid "Displaying tracked entity relationships in Maps is an experimental feature"
 msgstr ""
 
 msgid "Display Tracked Entity relationships"
