@@ -1,0 +1,594 @@
+# Translators:
+# Viktor Varland <viktor@dhis2.org>, 2019
+# phil_dhis2, 2019
+# easylin <lin_xd@126.com>, 2020
+# 晓东 林 <13981924470@126.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2019-11-20T13:55:02.205Z\n"
+"PO-Revision-Date: 2019-09-02 08:01+0000\n"
+"Last-Translator: 晓东 林 <13981924470@126.com>, 2020\n"
+"Language-Team: Chinese (https://www.transifex.com/hisp-uio/teams/100509/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Maps"
+msgstr "地图"
+
+msgid "Classification"
+msgstr "分类"
+
+msgid "Classes"
+msgstr "分类"
+
+msgid "Legend set"
+msgstr "图例集"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Predefined"
+msgstr "已预定义"
+
+msgid "Data element group"
+msgstr "数据元组"
+
+msgid "Data element operand"
+msgstr "数据元操作符"
+
+msgid "Data element"
+msgstr "数据元"
+
+msgid "Totals"
+msgstr "总共"
+
+msgid "Details"
+msgstr "详情"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Event location"
+msgstr "事件位置"
+
+msgid "Coordinate field"
+msgstr "坐标字段"
+
+msgid "None"
+msgstr "无"
+
+msgid "Data item"
+msgstr "数据条目"
+
+msgid "Event data item"
+msgstr "事件数据条目"
+
+msgid "Style by data element"
+msgstr "按数据元风格显示"
+
+msgid "Data set"
+msgstr "数据集"
+
+msgid "Index"
+msgstr "索引"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Legend"
+msgstr "图例"
+
+msgid "Range"
+msgstr "范围"
+
+msgid "Level"
+msgstr "等级"
+
+msgid "Parent"
+msgstr "上级"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download map"
+msgstr "下载地图"
+
+msgid "Show name"
+msgstr "显示名称"
+
+msgid "Show legend"
+msgstr "显示图例"
+
+msgid ""
+"Map download is not supported by your browser. Try Google Chrome or Firefox."
+msgstr "你的浏览器不支持地图下载，请使用Google浏览器或火狐狸浏览器"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Legend position"
+msgstr "图例位置"
+
+msgid "Period"
+msgstr "周期"
+
+msgid "Organisation units"
+msgstr "组织机构"
+
+msgid "Style"
+msgstr "风格"
+
+msgid "Labels"
+msgstr "标签"
+
+msgid "Point radius"
+msgstr "点半径"
+
+msgid "No organisation units are selected"
+msgstr "没有选择机构"
+
+msgid "Steps"
+msgstr "步"
+
+msgid "Legend preview"
+msgstr "图例预览"
+
+msgid "This field is required"
+msgstr "这个字段是必填的"
+
+msgid "Valid range is"
+msgstr "有效范围"
+
+msgid "data"
+msgstr "数据"
+
+msgid "period"
+msgstr "期间"
+
+msgid "Filter"
+msgstr "过滤器"
+
+msgid "Org units"
+msgstr "组织机构"
+
+msgid "Start date"
+msgstr "开始日期"
+
+msgid "End date"
+msgstr "结束日期"
+
+msgid "Events"
+msgstr "事件"
+
+msgid "Group events"
+msgstr "事件组"
+
+msgid "View all events"
+msgstr "查看所有事件"
+
+msgid "Radius"
+msgstr "半径"
+
+msgid "Buffer"
+msgstr "缓冲"
+
+msgid "Radius in meters"
+msgstr "半径（米）"
+
+msgid "You can style events by data element after selecting a program."
+msgstr "选择一个项目后你可以按数据元风格化显示事件"
+
+msgid "Program is required"
+msgstr "需要项目"
+
+msgid "Program stage is required"
+msgstr "需要项目阶段"
+
+msgid "No organisation units are selected."
+msgstr "没有选择机构"
+
+msgid "Group set"
+msgstr "组集"
+
+msgid ""
+"Remember to select the organisation unit level containing the facilities."
+msgstr "记住选择包括机构的等级"
+
+msgid "Group set is required"
+msgstr "需要组集"
+
+msgid "Update layer"
+msgstr "更新图层"
+
+msgid "Add layer"
+msgstr "添加图层"
+
+msgid "Select program period"
+msgstr "选择项目期间"
+
+msgid "Select period when tracked entities were last updated"
+msgstr "当跟踪的实体最近被更新 后选择期间"
+
+msgid "Program status"
+msgstr "项目状态"
+
+msgid "Follow up"
+msgstr "后续跟进"
+
+msgid "Selection mode"
+msgstr "选择模式"
+
+msgid "Tracked entities"
+msgstr "跟踪的实体"
+
+msgid "Point size"
+msgstr "点大小"
+
+msgid "Aggregation type"
+msgstr "汇总类型"
+
+msgid "Low size"
+msgstr "下限"
+
+msgid "High size"
+msgstr " 上限"
+
+msgid "Indicator group is required"
+msgstr "需要指标组"
+
+msgid "Indicator is required"
+msgstr "需要指标"
+
+msgid "Data element group is required"
+msgstr "需要数据元组"
+
+msgid "Data element is required"
+msgstr "需要数据元"
+
+msgid "Data set is required"
+msgstr "需要数据"
+
+msgid "Event data item is required"
+msgstr "需要事件数据项"
+
+msgid "Program indicator is required"
+msgstr "需要项目指标"
+
+msgid "Period type is required"
+msgstr "需要期间类型"
+
+msgid "Period is required"
+msgstr "需要期间"
+
+msgid "Indicator"
+msgstr "指标"
+
+msgid "Reporting rates"
+msgstr "上报率"
+
+msgid "Event data items"
+msgstr "事件数据项"
+
+msgid "Program indicators"
+msgstr "项目指标"
+
+msgid "Item type"
+msgstr "条目类型"
+
+msgid "An error occurred in the DHIS2 Maps application."
+msgstr "DHIS2地图应用发生错误"
+
+msgid "Something went wrong"
+msgstr "出了些问题"
+
+msgid "Refresh to try again"
+msgstr "刷新后再试"
+
+msgid "Hide technical details"
+msgstr "隐藏技术细节"
+
+msgid "Show technical details"
+msgstr "显示技术细节"
+
+msgid "The following information may be requested by technical support."
+msgstr "下列信息可能技术支持需要"
+
+msgid "Filtering is available after selecting a program stage."
+msgstr "选择项目阶段后即可进行过滤。"
+
+msgid "Add filter"
+msgstr "添加过滤器"
+
+msgid "Delete filter"
+msgstr "删除过滤器"
+
+msgid "Remove filter"
+msgstr "移除过滤器"
+
+msgid "Operator"
+msgstr "操作符"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "one of"
+msgstr "当中一个"
+
+msgid "not one of"
+msgstr "不是当中一个"
+
+msgid "contains"
+msgstr "包含"
+
+msgid "doesn't contains"
+msgstr "不包含"
+
+msgid "is"
+msgstr "是"
+
+msgid "is not"
+msgstr "不是"
+
+msgid "Indicator group"
+msgstr "指标组"
+
+msgid "Interpretations"
+msgstr "注释"
+
+msgid "Basemap"
+msgstr "背景图"
+
+msgid "Collapse"
+msgstr "折叠"
+
+msgid "Expand"
+msgstr "展开"
+
+msgid "Download Layer Data"
+msgstr "下载图层数据"
+
+msgid "Downloading GeoJSON data for \"{{layerName}}\""
+msgstr "下载 \"{{layerName}}\" 层的GeoJSON数据"
+
+msgid ""
+"GeoJSON is supported by most GIS software, including QGIS and ArcGIS "
+"Desktop."
+msgstr "大多数GIS软件（包括QGIS和ArcGIS Desktop）都支持GeoJSON。"
+
+msgid "Data download failed."
+msgstr "下载数据失败"
+
+msgid "ID Format"
+msgstr "ID格式"
+
+msgid "Use human-readable keys"
+msgstr "使用人机可读的键值"
+
+msgid "Loading layer"
+msgstr "载入图层"
+
+msgid "deleted"
+msgstr "删除的"
+
+msgid "Filters"
+msgstr "过滤器"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Toggle visibility"
+msgstr "切换可视性"
+
+msgid "Set layer opacity"
+msgstr "设置图层透明性"
+
+msgid "More actions"
+msgstr "更多操作"
+
+msgid "Data table"
+msgstr "数据表"
+
+msgid "Download data"
+msgstr "下载数据"
+
+msgid "Edit layer"
+msgstr "编辑图层"
+
+msgid "Remove layer"
+msgstr "移除图层"
+
+msgid "Open as"
+msgstr "打开为"
+
+msgid "Pivot"
+msgstr "透视"
+
+msgid "Chart"
+msgstr "图表"
+
+msgid "Parent unit"
+msgstr "上级机构"
+
+msgid "Drill up one level"
+msgstr "上钻一级"
+
+msgid "Drill down one level"
+msgstr "下钻一级"
+
+msgid "Show information"
+msgstr "显示信息表格"
+
+msgid "Show longitude/latitude"
+msgstr "显示经纬度"
+
+msgid "Swap longitude/latitude"
+msgstr "切换经纬度"
+
+msgid "Relocate"
+msgstr "重新定位"
+
+msgid "Not set"
+msgstr "没有设置"
+
+msgid "Organisation unit"
+msgstr "组织机构"
+
+msgid "Event time"
+msgstr "事件时间"
+
+msgid "Groups"
+msgstr "组"
+
+msgid "Viewing interpretation from {{interpretationDate}}"
+msgstr "查看自{{interpretationDate}}的注释"
+
+msgid "Last updated"
+msgstr "上次更新"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Code"
+msgstr "代码"
+
+msgid "No data found for this period."
+msgstr "在该期间没有找到数据"
+
+msgid "Select groups"
+msgstr "选择组"
+
+msgid "Select levels"
+msgstr "选择等级"
+
+msgid "Click the map where you want to relocate facility"
+msgstr "点击你要重新定位机构的位置"
+
+msgid "user organisation unit"
+msgstr "用户所在的机构"
+
+msgid "right below user organisation unit"
+msgstr "用户所在机构的直接下属"
+
+msgid "two levels below user organisation unit"
+msgstr "用户所在机构的二级下属机构"
+
+msgid "in"
+msgstr " 在"
+
+msgid "in and right below"
+msgstr "右边或垂直下属"
+
+msgid "in and all below"
+msgstr "本身和所有下属"
+
+msgid "Previous year"
+msgstr "前年"
+
+msgid "Next year"
+msgstr "来年"
+
+msgid "Period type"
+msgstr "周期类型"
+
+msgid "Program indicator"
+msgstr "项目指标"
+
+msgid "No program"
+msgstr "无项目"
+
+msgid "Program"
+msgstr "项目"
+
+msgid "Stage"
+msgstr "阶段"
+
+msgid "Tracked Entity Type"
+msgstr "跟踪实体类型"
+
+msgid ""
+"To show this layer you must first sign up for the Earth Engine service at "
+"Google. Please check the DHIS 2 documentation."
+msgstr "为了展示这个 层您必须先在Google上注册Earth Engine服务。请检查DHIS 2文档。"
+
+msgid "Favorite"
+msgstr "偏好"
+
+msgid "is saved"
+msgstr "已保存"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Boundaries"
+msgstr "边界线"
+
+msgid "Alert"
+msgstr "警告"
+
+msgid "No boundaries found"
+msgstr "没有发现边界线"
+
+msgid "Access denied"
+msgstr "拒绝随访"
+
+msgid "user is not allowed to read layer data"
+msgstr "不允许用户读取图层数据"
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "an unknown error occurred while reading layer data"
+msgstr "读取图层数据时发生未知错误"
+
+msgid "Event"
+msgstr "四级"
+
+msgid "Facilities"
+msgstr "机构设施"
+
+msgid "No data found"
+msgstr "没有数据被找到"
+
+msgid "Tracked entity"
+msgstr "跟踪实体"
+
+msgid "No tracked entities found"
+msgstr "没有找到跟踪实体"
+
+msgid "true"
+msgstr "真"
+
+msgid "false"
+msgstr "假"
+
+msgid "No"
+msgstr "否"
+
+msgid "Map could not be created"
+msgstr "不能创建地图"
+
+msgid "Start date is invalid"
+msgstr "开始日期无效"
+
+msgid "End date is invalid"
+msgstr "结束日期无效"
+
+msgid "End date cannot be earlier than start date"
+msgstr "结束日期不能早于开始日期"
