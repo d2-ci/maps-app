@@ -53,10 +53,10 @@ msgid "Yes"
 msgstr "نعم"
 
 msgid "Event location"
-msgstr ""
+msgstr "موقع الحدث"
 
 msgid "Coordinate field"
-msgstr ""
+msgstr "حقل الإحداثية"
 
 msgid "None"
 msgstr "لا شيء"
@@ -104,10 +104,10 @@ msgid "Download"
 msgstr "تحميل"
 
 msgid "Download map"
-msgstr ""
+msgstr "تنزيل الخريطة"
 
 msgid "Show name"
-msgstr ""
+msgstr "عرض الإسم"
 
 msgid "Show legend"
 msgstr ""
@@ -138,13 +138,13 @@ msgid "Labels"
 msgstr "التسميات"
 
 msgid "Point radius"
-msgstr ""
+msgstr "قطر النقطة"
 
 msgid "No organisation units are selected"
 msgstr ""
 
 msgid "Steps"
-msgstr ""
+msgstr "الخطوات"
 
 msgid "Legend preview"
 msgstr ""
@@ -156,10 +156,10 @@ msgid "Valid range is"
 msgstr ""
 
 msgid "data"
-msgstr ""
+msgstr "البيانات"
 
 msgid "period"
-msgstr ""
+msgstr "الفترة"
 
 msgid "Filter"
 msgstr "عامل التصفية"
@@ -180,16 +180,16 @@ msgid "Group events"
 msgstr ""
 
 msgid "View all events"
-msgstr ""
+msgstr "عرض كافة الأحداث"
 
 msgid "Radius"
-msgstr ""
+msgstr "القطر"
 
 msgid "Buffer"
 msgstr ""
 
 msgid "Radius in meters"
-msgstr ""
+msgstr "نصف القطر بالأمتار"
 
 msgid "You can style events by data element after selecting a program."
 msgstr ""
@@ -201,7 +201,7 @@ msgid "Program stage is required"
 msgstr ""
 
 msgid "No organisation units are selected."
-msgstr ""
+msgstr "لم يتم اختيار أي وحدات تنظيمية"
 
 msgid "Group set"
 msgstr "حزمة المجموعات"
@@ -229,25 +229,25 @@ msgid "Program status"
 msgstr "حالة البرنامج"
 
 msgid "Follow up"
-msgstr ""
+msgstr "متابعة"
 
 msgid "Selection mode"
 msgstr ""
 
 msgid "Tracked entities"
-msgstr ""
+msgstr "الكيانات المتعقبة"
 
 msgid "Point size"
-msgstr ""
+msgstr "حجم النقطة"
 
 msgid "Aggregation type"
 msgstr "نوع التجميع"
 
 msgid "Low size"
-msgstr ""
+msgstr "حجم صغير"
 
 msgid "High size"
-msgstr ""
+msgstr "حجم كبير"
 
 msgid "Indicator group is required"
 msgstr ""
@@ -289,25 +289,25 @@ msgid "Program indicators"
 msgstr "مؤشرات البرنامج"
 
 msgid "Item type"
-msgstr ""
+msgstr "نوع العنصر"
 
 msgid "An error occurred in the DHIS2 Maps application."
 msgstr ""
 
 msgid "Something went wrong"
-msgstr ""
+msgstr "هناك خطأ ما"
 
 msgid "Refresh to try again"
-msgstr ""
+msgstr "حدث للمحاولة مرة أخرى"
 
 msgid "Hide technical details"
-msgstr ""
+msgstr "إخفاء التفاصيل التقنية"
 
 msgid "Show technical details"
-msgstr ""
+msgstr "إظهار التفاصيل التقنية"
 
 msgid "The following information may be requested by technical support."
-msgstr ""
+msgstr "قد يتم طلب المعلومات التالية من قبل الدعم الفني."
 
 msgid "Filtering is available after selecting a program stage."
 msgstr ""
@@ -384,7 +384,7 @@ msgid "Loading layer"
 msgstr ""
 
 msgid "deleted"
-msgstr ""
+msgstr "محذوف"
 
 msgid "Filters"
 msgstr "‏‏عوامل التصفية"
@@ -426,19 +426,19 @@ msgid "Parent unit"
 msgstr "الوحدة العليا"
 
 msgid "Drill up one level"
-msgstr ""
+msgstr "الطلوع مستوى واحد"
 
 msgid "Drill down one level"
-msgstr ""
+msgstr "التعمق مستوى واحد"
 
 msgid "Show information"
 msgstr "إظهار المعلومات"
 
 msgid "Show longitude/latitude"
-msgstr ""
+msgstr "إظهار خط الطول/خط العرض"
 
 msgid "Swap longitude/latitude"
-msgstr ""
+msgstr "تبديل خط الطول/خط العرض"
 
 msgid "Relocate"
 msgstr "إعادة تحديد الموضع"
@@ -450,13 +450,13 @@ msgid "Organisation unit"
 msgstr "الوحدة التنظيمية"
 
 msgid "Event time"
-msgstr ""
+msgstr "وقت الحدث"
 
 msgid "Groups"
 msgstr "المجموعات"
 
 msgid "Viewing interpretation from {{interpretationDate}}"
-msgstr ""
+msgstr "مشاهدة التفسير من  {{interpretationDate}}"
 
 msgid "Last updated"
 msgstr "آخر تحديث"
@@ -471,10 +471,10 @@ msgid "No data found for this period."
 msgstr ""
 
 msgid "Select groups"
-msgstr ""
+msgstr "اختر المجموعات"
 
 msgid "Select levels"
-msgstr ""
+msgstr "اختر المستويات"
 
 msgid "Click the map where you want to relocate facility"
 msgstr ""
