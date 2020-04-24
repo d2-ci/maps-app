@@ -8,7 +8,7 @@
   },
   "appType": "APP",
   "name": "DHIS2 Maps",
-  "version": "34.0.25",
+  "version": "34.0.26",
   "description": "DHIS2 Maps",
   "developer": {
     "name": "Bjørn Sandvik"
@@ -16,5 +16,5 @@
   "icons": {
     "48": "icon.png"
   },
-  "manifest_generated_at": "Fri Apr 24 2020 10:24:15 GMT+0000 (UTC)"
+  "manifest_generated_at": "Fri Apr 24 2020 13:22:33 GMT+0000 (UTC)"
 }
