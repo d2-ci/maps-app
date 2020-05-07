@@ -1,0 +1,20 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "DHIS2 Maps",
+  "version": "32.0.35",
+  "description": "DHIS2 Maps",
+  "developer": {
+    "name": "Bjørn Sandvik"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "manifest_generated_at": "Thu May 07 2020 22:07:37 GMT+0000 (UTC)"
+}
