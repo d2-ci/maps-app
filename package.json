@@ -1,6 +1,6 @@
 {
     "name": "maps-app",
-    "version": "1.15.7",
+    "version": "1.15.8",
     "description": "DHIS2 Maps",
     "main": "src/app.js",
     "repository": {
@@ -132,6 +132,9 @@
         "icons": {
             "48": "icon.png"
         },
+        "appType": "APP",
+        "core_app": true,
+        "short_name": "maps",
         "developer": {
             "url": "",
             "name": "Bjørn Sandvik"
