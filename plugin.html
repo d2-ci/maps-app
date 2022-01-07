@@ -13,7 +13,6 @@
         #savedMapPicker input {
             margin: 5px;
         }
-        #mapArea {margin-bottom: 10px;}
         .centering{
             margin-top: 30px;
             display: flex;
@@ -43,32 +42,8 @@
             </div>
         </div>
         <div id="mapContainer">
-                <div id="mapArea">
-                    <div id="map" class="map"></div>
-                    <button type="submit" id="btnReset">Reset</button>
-                </div>
-                <div id="mapPropertiesArea">
-                    <div>
-                        <span>BasemapId:</span>
-                        <span id="basemapId"></span>
-                    </div>
-                    <div>
-                        <span>Basemap Name:</span>
-                        <span id="basemapName"></span>
-                    </div>
-                    <div>
-                        <span>Basemap IsVisible:</span>
-                        <span id="basemapIsVisible"></span>
-                    </div>
-                    <div>
-                        <span>Mapviews count:</span>
-                        <span id="mapviewsCount"></span>
-                    </div>
-                    <div>
-                        <span>Mapviews names:</span>
-                        <span id="mapviewsNames"></span>
-                    </div>
-            </div>
+            <div id="map" class="map"></div>
+            <button type="submit" id="btnReset">Reset</button>
         </div>
     </div>
     <script>
@@ -87,7 +62,7 @@
         if (mapId) {
             mapPlugin.load({
                 id: mapId,
-                el: 'map'
+                el: 'map',
             });
             picker.style.display = 'none';
             mapContainer.style.display = 'block';
