@@ -1,6 +1,6 @@
 {
     "name": "maps-app",
-    "version": "1.17.0",
+    "version": "1.17.1",
     "description": "DHIS2 Maps",
     "main": "src/app.js",
     "repository": {
@@ -67,7 +67,7 @@
         "file-saver": "^2.0.5",
         "lodash": "^4.17.21",
         "loglevel": "^1.7.1",
-        "promise-polyfill": "^8.1.0",
+        "promise-polyfill": "^8.2.1",
         "prop-types": "^15.8.1",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
