@@ -8,7 +8,7 @@
   },
   "appType": "APP",
   "name": "DHIS2 Maps",
-  "version": "1.18.9",
+  "version": "1.18.12",
   "description": "DHIS2 Maps",
   "developer": {
     "name": "Bjørn Sandvik"
@@ -18,5 +18,5 @@
   },
   "core_app": true,
   "short_name": "maps",
-  "manifest_generated_at": "Sun Feb 06 2022 00:44:21 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Tue Feb 15 2022 00:40:22 GMT+0000 (Coordinated Universal Time)"
 }
