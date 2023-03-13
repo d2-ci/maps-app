@@ -3,7 +3,7 @@
   "short_name": "maps",
   "name": "Maps",
   "description": "DHIS2 Maps",
-  "version": "1.30.6",
+  "version": "1.30.7",
   "core_app": true,
   "launch_path": "index.html",
   "plugin_launch_path": "plugin.html",
@@ -19,7 +19,7 @@
   "developer": {
     "name": "Bjørn Sandvik"
   },
-  "manifest_generated_at": "Mon Mar 13 2023 12:01:26 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Mon Mar 13 2023 13:51:04 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
