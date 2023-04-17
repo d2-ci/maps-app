@@ -2,8 +2,9 @@
   "type": "app",
   "name": "maps",
   "title": "Maps",
+  "minDHIS2Version": "2.40",
   "coreApp": true,
-  "version": "1.30.19",
+  "version": "1.30.20",
   "author": {
     "name": "Bjørn Sandvik"
   },
