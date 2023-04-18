@@ -1,0 +1,16 @@
+{
+  "type": "app",
+  "name": "maps",
+  "title": "Maps",
+  "minDHIS2Version": "2.40",
+  "coreApp": true,
+  "version": "1.30.20",
+  "author": {
+    "name": "Bjørn Sandvik"
+  },
+  "description": "DHIS2 Maps",
+  "entryPoints": {
+    "app": "index.html",
+    "plugin": "plugin.html"
+  }
+}
