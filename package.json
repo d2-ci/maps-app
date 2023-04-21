@@ -1,6 +1,6 @@
 {
     "name": "maps-app",
-    "version": "99.9.9",
+    "version": "100.0.0",
     "description": "DHIS2 Maps",
     "license": "BSD-3-Clause",
     "author": "Bjørn Sandvik",
@@ -26,6 +26,7 @@
         "@dhis2/cypress-plugins": "^9.0.2",
         "@testing-library/react": "^12.1.5",
         "cypress": "^8.7.0",
+        "cypress-tags": "^1.1.2",
         "cypress-wait-until": "^1.7.2",
         "d2-i18n-extract": "^1.0.5",
         "enzyme": "^3.11.0",
