@@ -1,0 +1,27 @@
+{
+  "appType": "APP",
+  "short_name": "maps",
+  "name": "Maps",
+  "description": "DHIS2 Maps",
+  "version": "1.30.16",
+  "core_app": true,
+  "launch_path": "index.html",
+  "plugin_launch_path": "plugin.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "developer": {
+    "name": "Bjørn Sandvik"
+  },
+  "manifest_generated_at": "Wed May 10 2023 07:10:57 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "."
+}
