@@ -4,7 +4,7 @@
   "short_name": "maps",
   "name": "Maps",
   "description": "DHIS2 Maps",
-  "version": "100.3.0",
+  "version": "100.4.0",
   "core_app": true,
   "launch_path": "index.html",
   "plugin_launch_path": "plugin.html",
@@ -20,7 +20,7 @@
   "developer": {
     "name": "Bjørn Sandvik"
   },
-  "manifest_generated_at": "Fri Jan 12 2024 10:24:36 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Feb 13 2024 12:20:26 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
