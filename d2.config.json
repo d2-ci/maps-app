@@ -5,8 +5,9 @@
   "title": "Maps",
   "minDHIS2Version": "2.40",
   "coreApp": true,
+  "dataStoreNamespace": "DHIS2_MAPS_APP_CORE",
   "skipPluginLogic": true,
-  "version": "100.5.9",
+  "version": "100.6.0",
   "author": {
     "name": "Bjørn Sandvik"
   },
