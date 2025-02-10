@@ -7,7 +7,7 @@
   "coreApp": true,
   "dataStoreNamespace": "DHIS2_MAPS_APP_CORE",
   "skipPluginLogic": true,
-  "version": "100.8.0",
+  "version": "100.8.1",
   "author": {
     "name": "Bjørn Sandvik"
   },
