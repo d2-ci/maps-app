@@ -8,6 +8,7 @@
   "core_app": true,
   "launch_path": "index.html",
   "plugin_launch_path": "plugin.html",
+  "plugin_type": "DASHBOARD",
   "default_locale": "en",
   "activities": {
     "dhis": {
@@ -21,7 +22,7 @@
   "developer": {
     "name": "Bjørn Sandvik"
   },
-  "manifest_generated_at": "Mon Feb 10 2025 08:30:23 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Fri Feb 14 2025 12:59:11 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
