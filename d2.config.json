@@ -7,7 +7,7 @@
   "pluginType": "DASHBOARD",
   "coreApp": true,
   "dataStoreNamespace": "DHIS2_MAPS_APP_CORE",
-  "version": "101.2.12",
+  "version": "101.2.13",
   "author": {
     "name": "Bjørn Sandvik"
   },
