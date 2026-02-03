@@ -5,6 +5,19 @@
   "title": "Maps",
   "minDHIS2Version": "2.40",
   "pluginType": "DASHBOARD",
+  "viteConfigExtensions": {
+    "build": {
+      "rollupOptions": {
+        "output": {
+          "manualChunks": {
+            "maps-gl": [
+              "@dhis2/maps-gl"
+            ]
+          }
+        }
+      }
+    }
+  },
   "coreApp": true,
   "dataStoreNamespace": "DHIS2_MAPS_APP_CORE",
   "version": "101.5.4",
