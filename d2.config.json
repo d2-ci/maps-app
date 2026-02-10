@@ -6,7 +6,13 @@
   "minDHIS2Version": "2.40",
   "pluginType": "DASHBOARD",
   "viteConfigExtensions": {
+    "optimizeDeps": {
+      "esbuildOptions": {
+        "target": "es2022"
+      }
+    },
     "build": {
+      "target": "es2022",
       "rollupOptions": {
         "output": {
           "manualChunks": {
