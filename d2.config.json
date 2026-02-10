@@ -26,7 +26,7 @@
   },
   "coreApp": true,
   "dataStoreNamespace": "DHIS2_MAPS_APP_CORE",
-  "version": "101.5.5",
+  "version": "101.6.0",
   "author": {
     "name": "Bjørn Sandvik"
   },
