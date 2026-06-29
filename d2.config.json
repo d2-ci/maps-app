@@ -6,7 +6,27 @@
   "minDHIS2Version": "2.40",
   "pluginType": "DASHBOARD",
   "viteConfigExtensions": {
+    "plugins": [
+      {
+        "name": "ee-api-js-worker-esm",
+        "apply": "serve"
+      }
+    ],
     "optimizeDeps": {
+      "exclude": [
+        "@dhis2/maps-gl"
+      ],
+      "include": [
+        "maplibre-gl",
+        "fetch-jsonp",
+        "lodash.throttle",
+        "@mapbox/sphericalmercator",
+        "@turf/jsts",
+        "concaveman",
+        "polylabel",
+        "pretty-bytes",
+        "suggestions"
+      ],
       "esbuildOptions": {
         "target": "es2022"
       }
