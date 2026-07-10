@@ -6,12 +6,6 @@
   "minDHIS2Version": "2.40",
   "pluginType": "DASHBOARD",
   "viteConfigExtensions": {
-    "plugins": [
-      {
-        "name": "ee-api-js-worker-esm",
-        "apply": "serve"
-      }
-    ],
     "optimizeDeps": {
       "exclude": [
         "@dhis2/maps-gl"
@@ -21,11 +15,20 @@
         "fetch-jsonp",
         "lodash.throttle",
         "@mapbox/sphericalmercator",
+        "@turf/area",
+        "@turf/bbox",
+        "@turf/buffer",
+        "@turf/center-of-mass",
+        "@turf/centroid",
+        "@turf/circle",
         "@turf/jsts",
+        "@turf/length",
+        "comlink",
         "concaveman",
         "polylabel",
         "pretty-bytes",
-        "suggestions"
+        "suggestions",
+        "uuid"
       ],
       "esbuildOptions": {
         "target": "es2022"
