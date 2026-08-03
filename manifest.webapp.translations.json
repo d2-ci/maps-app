@@ -30,10 +30,6 @@
     "description": "DHIS2 Maps"
   },
   {
-    "locale": "en_US",
-    "shortcuts": {}
-  },
-  {
     "locale": "es",
     "shortcuts": {}
   },
