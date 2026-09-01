@@ -1,11 +1,15 @@
 [
   {
     "locale": "ar",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "الخرائط",
+    "description": ""
   },
   {
     "locale": "ar_IQ",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "الخرائط",
+    "description": ""
   },
   {
     "locale": "bn",
@@ -13,15 +17,21 @@
   },
   {
     "locale": "ckb",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "",
+    "description": ""
   },
   {
     "locale": "cs",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Mapy",
+    "description": ""
   },
   {
     "locale": "da",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Maps",
+    "description": ""
   },
   {
     "locale": "en",
@@ -31,47 +41,69 @@
   },
   {
     "locale": "es",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Mapas",
+    "description": ""
   },
   {
     "locale": "es_419",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "",
+    "description": ""
   },
   {
     "locale": "fr",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Cartes",
+    "description": ""
   },
   {
     "locale": "hi_IN",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "",
+    "description": ""
   },
   {
     "locale": "id",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Peta",
+    "description": ""
   },
   {
     "locale": "km",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "ផែនទី",
+    "description": ""
   },
   {
     "locale": "lo",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "ແຜນທີ່",
+    "description": ""
   },
   {
     "locale": "my",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Maps",
+    "description": ""
   },
   {
     "locale": "nb",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Kart",
+    "description": ""
   },
   {
     "locale": "ne",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "",
+    "description": ""
   },
   {
     "locale": "nl",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Kaarten",
+    "description": ""
   },
   {
     "locale": "or",
@@ -79,19 +111,27 @@
   },
   {
     "locale": "prs",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "نقشه ها",
+    "description": ""
   },
   {
     "locale": "ps",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "نخشې",
+    "description": ""
   },
   {
     "locale": "pt",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Mapas",
+    "description": ""
   },
   {
     "locale": "pt_BR",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "",
+    "description": ""
   },
   {
     "locale": "ro",
@@ -99,31 +139,45 @@
   },
   {
     "locale": "ru",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Карты",
+    "description": ""
   },
   {
     "locale": "si",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "සිතිය",
+    "description": ""
   },
   {
     "locale": "sv",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Kartor",
+    "description": ""
   },
   {
     "locale": "tet",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "",
+    "description": ""
   },
   {
     "locale": "tg",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "",
+    "description": ""
   },
   {
     "locale": "uk",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Карти",
+    "description": ""
   },
   {
     "locale": "ur",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "نقسے",
+    "description": ""
   },
   {
     "locale": "uz_Cyrl",
@@ -135,22 +189,32 @@
   },
   {
     "locale": "uz_UZ_Cyrl",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Хариталар",
+    "description": ""
   },
   {
     "locale": "uz_UZ_Latn",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Xaritalar",
+    "description": ""
   },
   {
     "locale": "vi",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "Bản Đồ",
+    "description": ""
   },
   {
     "locale": "zh",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "地图",
+    "description": "DHIS2 地图"
   },
   {
     "locale": "zh_CN",
-    "shortcuts": {}
+    "shortcuts": {},
+    "title": "地图应用",
+    "description": ""
   }
 ]
