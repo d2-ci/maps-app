@@ -1,0 +1,220 @@
+[
+  {
+    "locale": "ar",
+    "shortcuts": {},
+    "title": "الخرائط",
+    "description": ""
+  },
+  {
+    "locale": "ar_IQ",
+    "shortcuts": {},
+    "title": "الخرائط",
+    "description": ""
+  },
+  {
+    "locale": "bn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ckb",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "cs",
+    "shortcuts": {},
+    "title": "Mapy",
+    "description": ""
+  },
+  {
+    "locale": "da",
+    "shortcuts": {},
+    "title": "Maps",
+    "description": ""
+  },
+  {
+    "locale": "en",
+    "shortcuts": {},
+    "title": "Maps",
+    "description": "DHIS2 Maps"
+  },
+  {
+    "locale": "es",
+    "shortcuts": {},
+    "title": "Mapas",
+    "description": ""
+  },
+  {
+    "locale": "es_419",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "fr",
+    "shortcuts": {},
+    "title": "Cartes",
+    "description": ""
+  },
+  {
+    "locale": "hi_IN",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "id",
+    "shortcuts": {},
+    "title": "Peta",
+    "description": ""
+  },
+  {
+    "locale": "km",
+    "shortcuts": {},
+    "title": "ផែនទី",
+    "description": ""
+  },
+  {
+    "locale": "lo",
+    "shortcuts": {},
+    "title": "ແຜນທີ່",
+    "description": ""
+  },
+  {
+    "locale": "my",
+    "shortcuts": {},
+    "title": "Maps",
+    "description": ""
+  },
+  {
+    "locale": "nb",
+    "shortcuts": {},
+    "title": "Kart",
+    "description": ""
+  },
+  {
+    "locale": "ne",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "nl",
+    "shortcuts": {},
+    "title": "Kaarten",
+    "description": ""
+  },
+  {
+    "locale": "or",
+    "shortcuts": {}
+  },
+  {
+    "locale": "prs",
+    "shortcuts": {},
+    "title": "نقشه ها",
+    "description": ""
+  },
+  {
+    "locale": "ps",
+    "shortcuts": {},
+    "title": "نخشې",
+    "description": ""
+  },
+  {
+    "locale": "pt",
+    "shortcuts": {},
+    "title": "Mapas",
+    "description": ""
+  },
+  {
+    "locale": "pt_BR",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "ro",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ru",
+    "shortcuts": {},
+    "title": "Карты",
+    "description": ""
+  },
+  {
+    "locale": "si",
+    "shortcuts": {},
+    "title": "සිතිය",
+    "description": ""
+  },
+  {
+    "locale": "sv",
+    "shortcuts": {},
+    "title": "Kartor",
+    "description": ""
+  },
+  {
+    "locale": "tet",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "tg",
+    "shortcuts": {},
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "uk",
+    "shortcuts": {},
+    "title": "Карти",
+    "description": ""
+  },
+  {
+    "locale": "ur",
+    "shortcuts": {},
+    "title": "نقسے",
+    "description": ""
+  },
+  {
+    "locale": "uz_Cyrl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_Latn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "shortcuts": {},
+    "title": "Хариталар",
+    "description": ""
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "shortcuts": {},
+    "title": "Xaritalar",
+    "description": ""
+  },
+  {
+    "locale": "vi",
+    "shortcuts": {},
+    "title": "Bản Đồ",
+    "description": ""
+  },
+  {
+    "locale": "zh",
+    "shortcuts": {},
+    "title": "地图",
+    "description": "DHIS2 地图"
+  },
+  {
+    "locale": "zh_CN",
+    "shortcuts": {},
+    "title": "地图应用",
+    "description": ""
+  }
+]
