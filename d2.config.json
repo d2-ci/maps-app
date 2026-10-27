@@ -8,7 +8,7 @@
   "viteConfigExtensions": "vite-extensions.config.mjs",
   "coreApp": true,
   "dataStoreNamespace": "DHIS2_MAPS_APP_CORE",
-  "version": "101.17.6",
+  "version": "101.17.7",
   "author": {
     "name": "Bjørn Sandvik"
   },
